@@ -26,4 +26,4 @@ Image Tiling is a technique used to improve the detection of small objects in hi
 ### Results
 | Yellow dots indicate correction values. | Purple dots indicate correction values |
 | ------------- | ------------- |
-| ![image](https://github.com/KennyChen880127/YOLOv8-Improved-Pose-Estimation/blob/main/example_1.jpg) | ![image](https://github.com/KennyChen880127/YOLOv8-Improved-Pose-Estimation/blob/main/example_2.jpg) |
+| ![image](https://github.com/KennyChen880127/Applying-YOLOv10-Combined-with-Image-Tiling-for-Defect-Detection-in-CMOS-Image-Sensors/blob/master/asset/The%20inference%20result%20of%20Image%20Scaling.jpg) | ![image](https://github.com/KennyChen880127/Applying-YOLOv10-Combined-with-Image-Tiling-for-Defect-Detection-in-CMOS-Image-Sensors/blob/master/asset/The%20inference%20result%20of%20Image%20Tiling.jpg) |
